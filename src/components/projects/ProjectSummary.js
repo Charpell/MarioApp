@@ -1,7 +1,6 @@
 import React from 'react'
 import moment from 'moment'
 
-
 const ProjectSummary = ({project}) => {
   return (
     <div className="card z-depth-0 project-summary">
